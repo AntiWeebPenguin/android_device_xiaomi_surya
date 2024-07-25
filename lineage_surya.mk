@@ -35,8 +35,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 BUILD_FINGERPRINT := POCO/surya_eea/surya:12/RKQ1.211019.001/V14.0.5.0.SJGEUXM:user/release-keys
 
 # Device props
-TARGET_ENABLE_BLUR := false
-TARGET_SUPPORTS_QUICK_TAP := false
-TARGET_FACE_UNLOCK_SUPPORTED := false
-TARGET_BUILD_APERTURE_CAMERA := false
-WITH_GMS := false
+WITH_GMS := true
