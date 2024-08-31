@@ -36,4 +36,4 @@ BUILD_FINGERPRINT := POCO/surya_eea/surya:12/RKQ1.211019.001/V14.0.5.0.SJGEUXM:u
 
 # Device props
 PRODUCT_NO_CAMERA := true
-TARGET_USES_PICO_GAPPS := true
+WITH_GMS := false
